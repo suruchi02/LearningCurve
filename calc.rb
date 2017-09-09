@@ -1,2 +1,9 @@
 
-# script to provide basic calculator functionality
+def add
+end
+
+def subtract
+end
+
+def multiply
+end
